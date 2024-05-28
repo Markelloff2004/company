@@ -24,7 +24,7 @@ public class Main {
 //            System.out.println();
 //            System.out.println(angajat);
 
-            System.out.println("Nume : " + angajat.getNume());
+            System.out.println("Numele : " + angajat.getNume());
             System.out.println("Directie : " + angajat.getDirectie());
             System.out.println("Salariu de Baza : " + angajat.getDirectie().getSalariuDeBaza());
             System.out.println("\tRata Bonus : " + angajat.getDirectie().getRataBonus() * 100 + "%");
